@@ -1,0 +1,6 @@
+.idea/
+venv/
+introcs-1.0/
+introcs-data/
+introcs-python/
+stdlib/*.pyc
